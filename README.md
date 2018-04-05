@@ -1,2 +1,2 @@
 # hello-world
-Yet Another Hello World
+This is a silly project.
